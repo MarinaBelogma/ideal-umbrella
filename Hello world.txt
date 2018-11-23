@@ -1,4 +1,5 @@
-print ('Hello world')
-input ('How are you?')
-print ("I am fine")
-print ("Hello my dear friend")
+print ('Hello world;')
+input ('How are you?;')
+print ("I am fine;")
+print ("Hello my dear friend;")
+
